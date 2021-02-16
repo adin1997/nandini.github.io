@@ -377,6 +377,7 @@ width: 100%;
 list-style: none;
 margin-bottom: 10px;
 font-size: 18px;
+background : unset;
 }
 .portfolio_heading,
 .header_nav {
